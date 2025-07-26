@@ -19,7 +19,7 @@ public class VectorString {
     public static void main(String[] args) {
         Vector<String> nombres = new Vector<String>();
 
-        String cadena = JOptionPane.showInputDialog("Digite tres nombres(,)");
+        String cadena = JOptionPane.showInputDialog("Digite tres nombreshola(,)");
 
         StringTokenizer tokens = new StringTokenizer(cadena, ",");
         int posicion = 0;
